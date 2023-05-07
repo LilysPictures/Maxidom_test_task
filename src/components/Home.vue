@@ -85,60 +85,65 @@
   
     <div class="container">
       <!-- ПЕРВЫЙ РЯД -->
-      <div class="row">
-        <div class="col-sm ">
-          <div class="card" >
-          <img src="../assets/Childs_World.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
-        </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Kiehls.png" class="card-img p-5" alt="Детский мир">
-          <p class="card-text">3 этаж </p>
+      <div class="row justify-content-around">
+
+        <div class="card m-2" style="width: 15rem;" >
+          <img class="card-img-top pt-3" src="../assets/Childs_World.png" alt="Card image cap">
+          <div class="card-body py-0" style="display: flex; align-items: flex-end">
+            <h5 class="card-title">Название карточки</h5>
           </div>
         </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Mixit.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
+        <div class="card m-2" style="width: 15rem;">
+          <img class="card-img-top pt-3" src="../assets/Kiehls.png" alt="Card image cap">
+          <div class="card-body py-0" style="display: flex; align-items: flex-end">
+            <h5 class="card-title">Название карточки</h5>      
+          </div>
         </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Respect.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
+        <div class="card m-2" style="width: 15rem;">
+          <img class="card-img-top pt-3" src="../assets/Mixit.png" alt="Card image cap">
+          <div class="card-body py-0" style="display: flex; align-items: flex-end">
+            <h5 class="card-title ">Название карточки</h5>      
+          </div>          
         </div>
+        <div class="card m-2" style="width: 15rem;">
+          <img class="card-img-top pt-3" src="../assets/Respect.png" alt="Card image cap">
+          <div class="card-body py-0" style="display: flex; align-items: flex-end">
+            <h5 class="card-title ">Название карточки</h5>      
+          </div>          
+        </div>
+       
       </div>
 <!-- ВТОРОЙ РЯД -->
-      <div class="row">
-        <div class="col-sm ">
-          <div class="card" >
-          <img src="../assets/Childs_World.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
-        </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Kiehls.png" class="card-img p-5" alt="Детский мир">
-          <p class="card-text">3 этаж </p>
-          </div>
-        </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Mixit.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
-        </div>
-        <div class="col-sm">
-          <div class="card" >
-          <img src="../assets/Respect.png" class="card-img p-5" alt="Детский мир">
-              <p class="card-text">3 этаж </p>
-            </div>
-        </div>
-      </div>
+<div class="row justify-content-around">
+
+  <div class="card m-2" style="width: 15rem;" >
+    <img class="card-img-top pt-3" src="../assets/Childs_World.png" alt="Card image cap">
+    <div class="card-body py-0" style="display: flex; align-items: flex-end">
+      <h5 class="card-title">Название карточки</h5>
     </div>
+  </div>
+  <div class="card m-2" style="width: 15rem;">
+    <img class="card-img-top pt-3" src="../assets/Kiehls.png" alt="Card image cap">
+    <div class="card-body py-0" style="display: flex; align-items: flex-end">
+      <h5 class="card-title">Название карточки</h5>      
+    </div>
+  </div>
+  <div class="card m-2" style="width: 15rem;">
+    <img class="card-img-top pt-3" src="../assets/Mixit.png" alt="Card image cap">
+    <div class="card-body py-0" style="display: flex; align-items: flex-end">
+      <h5 class="card-title ">Название карточки</h5>      
+    </div>          
+  </div>
+  <div class="card m-2" style="width: 15rem;">
+    <img class="card-img-top pt-3" src="../assets/Respect.png" alt="Card image cap">
+    <div class="card-body py-0" style="display: flex; align-items: flex-end">
+      <h5 class="card-title ">Название карточки</h5>      
+    </div>          
+  </div>
+ 
+</div>
+    </div>
+
 
   <p class=" pt-3">Смотреть ещё 37 магазинов</p>
 
