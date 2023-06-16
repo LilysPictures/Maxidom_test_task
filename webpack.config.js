@@ -36,10 +36,11 @@ module.exports = {
                test: /\.scss$/, 
                use:
                ['style-loader',
+               'vue-style-loader',
                'css-loader',
                'sass-loader'],
-            },
-            {
+            },   
+                       {
                 test: /bootstrap\.js$/,
                 exclude: /node_modules/, 
                 use: {

@@ -1,0 +1,59 @@
+<svg width="1920" height="673" viewBox="0 0 1920 673" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2_116)">
+<path d="M1920 0H0V673H1920V0Z" fill="#EDFCFF"/>
+<g clip-path="url(#clip1_2_116)">
+<path d="M1918 546V431H1514V546H1918Z" fill="#F1AA1E"/>
+</g>
+<g clip-path="url(#clip2_2_116)">
+<path d="M317 248H432V115H317V248Z" fill="#22A09C"/>
+</g>
+<g clip-path="url(#clip3_2_116)">
+<path d="M316 115L431 0V115H316Z" fill="#33348E"/>
+</g>
+<g clip-path="url(#clip4_2_116)">
+<path d="M1514 429L1399 544H1514V429Z" fill="#8557A4"/>
+</g>
+<g clip-path="url(#clip5_2_116)">
+<path d="M317 363L432 248L317 248L317 363Z" fill="#8557A4"/>
+</g>
+<g clip-path="url(#clip6_2_116)">
+<path d="M959 115L1074 0L959 5.02681e-06L959 115Z" fill="#DC112E"/>
+</g>
+<g clip-path="url(#clip7_2_116)">
+<path d="M0 248L0 363H317V248H0Z" fill="#F1AA1E"/>
+</g>
+<path d="M1514 544H1399V673H1514V544Z" fill="#22A09C"/>
+<g clip-path="url(#clip8_2_116)">
+<path d="M431 0V115L959 115V0L431 0Z" fill="#8557A4"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2_116">
+<rect width="1920" height="673" fill="white"/>
+</clipPath>
+<clipPath id="clip1_2_116">
+<rect width="404" height="115" fill="white" transform="translate(1514 431)"/>
+</clipPath>
+<clipPath id="clip2_2_116">
+<rect width="115" height="133" fill="white" transform="translate(317 115)"/>
+</clipPath>
+<clipPath id="clip3_2_116">
+<rect width="115" height="115" fill="white" transform="translate(316)"/>
+</clipPath>
+<clipPath id="clip4_2_116">
+<rect width="115" height="115" fill="white" transform="translate(1399 429)"/>
+</clipPath>
+<clipPath id="clip5_2_116">
+<rect width="115" height="115" fill="white" transform="translate(317 248)"/>
+</clipPath>
+<clipPath id="clip6_2_116">
+<rect width="115" height="115" fill="white" transform="translate(959)"/>
+</clipPath>
+<clipPath id="clip7_2_116">
+<rect width="317" height="115" fill="white" transform="translate(0 248)"/>
+</clipPath>
+<clipPath id="clip8_2_116">
+<rect width="528" height="115" fill="white" transform="translate(431)"/>
+</clipPath>
+</defs>
+</svg>
