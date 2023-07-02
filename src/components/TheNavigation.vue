@@ -1,11 +1,11 @@
 <template>
-    <div class="container center mt-3 top-line">
+    <div class="container center top-line pb-3">
         <div class="row text-uppercase pb-2">
-            <div class="col-2 topnav">Магазины</div>
-            <div class="col-2 topnav pr-5">О нас</div>
-            <div class="col-3 topnav text-left">Новости и Акции</div>
-            <div class="col-3 topnav text-left px-0">Как добраться</div>
-            <div class="col-2 topnav pr-2">Партнерам</div>
+            <div class="col-2 topnav pt-3">Магазины</div>
+            <div class="col-2 topnav pt-3">О нас</div>
+            <div class="col-3 topnav pt-3">Новости и Акции</div>
+            <div class="col-3 topnav pt-3">Как добраться</div>
+            <div class="col-2 topnav pt-3">Партнерам</div>
         </div>
     </div>
 </template>
@@ -19,18 +19,15 @@
 
 .topnav {
     overflow: hidden;
-    float: left;
     display: block;
-    text-align: center;
-    padding: 16px 32px 16px 16px;
+    text-align: center;    
     text-decoration: none;
     border-top: 3px solid transparent;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 24px;
-    display: flex;
     align-items: center;
     text-align: center;
     font-variant: all-small-caps;

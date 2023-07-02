@@ -2,12 +2,9 @@
   <div class="container center">
     <div class="row">
         <div class="col-3 text-left p-0 align-self-center d-flex justify-content-start">        
-          <div class="col"><img alt="FaceBook" src="../assets/imgHeader/Facebook.svg" class="img-facebook"/></div>
-          <div class="col"><img alt="Instagram" src="../assets/imgHeader/Instagram.svg" class="img-instagram"/></div>
-          <div class="col"><img alt="VK" src="../assets/imgHeader/Vk.svg" /> </div>
-          <!-- <img alt="FaceBook" src="../assets/imgHeader/Facebook.svg" class="img-facebook"/>
+          <img alt="FaceBook" src="../assets/imgHeader/Facebook.svg" class="img-facebook"/>
           <img alt="Instagram" src="../assets/imgHeader/Instagram.svg" class="img-instagram"/>
-          <img alt="VK" src="../assets/imgHeader/Vk.svg" />           -->
+          <img alt="VK" src="../assets/imgHeader/Vk.svg" />          
         </div>  
 
 
@@ -26,10 +23,7 @@
 </div>
 </template>
 
-<script setup>
-</script>
-
-<style lang="scss">
+<style lang="scss" scoped>
 .container{
   margin-top: 36px;
   margin-bottom: 38px
