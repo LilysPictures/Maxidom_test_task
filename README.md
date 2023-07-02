@@ -1,4 +1,4 @@
-# Test. Internet shop ____(ツ)_/¯
+# Test. Internet shop (─‿‿─)♡
 Test-task. Creating a site and building a project using: webpack, bootstrap4, sass, vue-3
 
 # You can see the project here
