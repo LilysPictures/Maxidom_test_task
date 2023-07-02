@@ -1,2 +1,8 @@
 # Maxidom_test_task
-test_task: webpack, bootstrap, sass, vue-3
+Test-task. Creating a site and building a project using: webpack, bootstrap4, sass, vue-3
+
+# you can see the project here
+https://bejewelled-shortbread-d3609b.netlify.app/
+
+# if you don't want to watch the project by link, then the layout looks like this
+![главная](https://github.com/LilysPictures/Test-task__from__Maksidom/assets/87022711/61654c4e-e707-4a82-980d-ba78fecde97c)
